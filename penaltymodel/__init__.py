@@ -14,7 +14,7 @@
 
 from warnings import warn as _warn  # so it doesn't get pulled in by import *
 
-__version__ = '1.2.0'
+__version__ = '1.3.0'
 
 import penaltymodel.core
 
